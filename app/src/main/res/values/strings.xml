@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">SE</string>
+    <string name="plus">+</string>
+    <string name="minus">-</string>
+    <string name="search_artobj">Search ArtObj</string>
+    <string name="enter_object_number">enter object number</string>
+    <string name="nothing">--</string>
+    <string name="search_author">Search Author</string>
+    <string name="enter_author_search">enter author search</string>
+    <string name="connection_problems">Server communication failed!</string>
+</resources>
